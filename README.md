@@ -11,7 +11,7 @@ A C program that uses a Genetic Algorithm to automatically find a compressed AI 
 | | |
 |---|---|
 | **Team number** | [Team No.] |
-| **Batch** | [Batch] |
+| **Batch** | 10 |
 
 | Member | ID |
 |---|---|
